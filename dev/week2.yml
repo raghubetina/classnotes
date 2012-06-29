@@ -9,8 +9,7 @@
   - ability to add behavior (to_s method)
 - refactor script with classes
 - write to file instead of terminal
-- "add html tags, change extension"
-  - add behavior: to_html method
+- "add behavior to_html method, change extension of output"
 - read input from file
   - show excel => csv
 - how to pass an argument from the command line

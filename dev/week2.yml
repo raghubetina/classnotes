@@ -1,0 +1,17 @@
+- show them finished product html
+- clone maybe?
+- our ruby code should read from a file and write that page
+  - using classes to represent each student
+  - "student has name, photo url, hometown"
+- write out the whole script using hashes
+- hash => class
+  - semantics
+  - ability to add behavior (to_s method)
+- refactor script with classes
+- write to file instead of terminal
+- "add html tags, change extension"
+  - add behavior: to_html method
+- read input from file
+  - show excel => csv
+- how to pass an argument from the command line
+  - "pass in what format you want (terminal, web page)"
